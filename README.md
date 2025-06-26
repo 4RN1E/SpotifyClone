@@ -1,0 +1,1 @@
+Part of a Codepath lab, I learned how to create a login UI in Android Studio and traversing through the different kinds of files like the kotlin files and the xml files. I learned how to create drawables and use them in the project.
